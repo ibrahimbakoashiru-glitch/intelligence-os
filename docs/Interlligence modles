@@ -1,0 +1,104 @@
+# Intelligence Models (Conceptual)
+Intelligence OS v1
+
+---
+
+## 1. Purpose of Models
+
+Models define how the system understands and adapts to humans
+without demanding attention or control.
+
+They are guides, not rulers.
+
+---
+
+## 2. Intent Model
+
+### Goal:
+Understand what the user wants — not what they click.
+
+### Characteristics:
+- Context-aware
+- Time-sensitive
+- Non-intrusive
+- Locally processed by default
+
+Intent is inferred quietly, never requested loudly.
+
+---
+
+## 3. Calm Model
+
+### Goal:
+Reduce stress caused by technology.
+
+### Behaviors:
+- Suppress unnecessary notifications
+- Delay non-urgent tasks
+- Preserve focus states
+- Prefer silence over interruption
+
+Calm is treated as a system resource.
+
+---
+
+## 4. Adaptation Model
+
+### Goal:
+Allow the system to evolve with the user.
+
+### Principles:
+- Slow learning
+- Reversible behavior
+- Transparent adaptation
+- No irreversible changes
+
+Adaptation never surprises the user.
+
+---
+
+## 5. Trust Model
+
+### Goal:
+Maintain user confidence and control.
+
+### Guarantees:
+- The user can inspect decisions
+- The user can disable any model
+- No hidden objectives
+- No data extraction by default
+
+Trust is earned, not assumed.
+
+---
+
+## 6. Boundary Model
+
+### Goal:
+Strict separation between intelligence and execution.
+
+### Rules:
+- Models advise, not command
+- Kernel enforces, not interprets
+- UX explains, not persuades
+
+This prevents overreach and abuse.
+
+---
+
+## 7. Local-First Principle
+
+All models are designed to function fully offline.
+
+Cloud services are optional extensions, never requirements.
+
+---
+
+## 8. Status
+
+These models are conceptual.
+They define behavior, not algorithms.
+
+Implementation will follow only after broad review.
+
+---
