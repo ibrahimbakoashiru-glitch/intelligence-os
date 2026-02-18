@@ -1,0 +1,125 @@
+# SE Kernel (Silent-Execution Kernel)
+Strategy & Design v1
+
+---
+
+## 1. What is SE Kernel?
+
+SE Kernel (Silent-Execution Kernel) is a minimal, calm, and deterministic kernel
+designed to disappear into the background while enabling intelligent systems above it.
+
+It does not think.
+It does not decide.
+It does not distract.
+
+It only executes — silently.
+
+---
+
+## 2. Why a New Kernel?
+
+Existing kernels are optimized for:
+- Throughput
+- Backward compatibility
+- Complex multitasking
+
+SE Kernel is optimized for:
+- Human calm
+- Predictable behavior
+- Energy efficiency
+- Future-first hardware
+
+This kernel is not an evolution.
+It is a reduction.
+
+---
+
+## 3. Core Responsibilities
+
+SE Kernel is responsible for only four things:
+
+1. Hardware abstraction
+2. Memory and process isolation
+3. Power and thermal awareness
+4. Secure execution boundaries
+
+Anything else belongs above the kernel.
+
+---
+
+## 4. What the Kernel Will NOT Do
+
+SE Kernel explicitly avoids:
+- UI logic
+- Intelligence or learning
+- Policy decisions
+- User-facing configuration
+
+Silence is a feature.
+
+---
+
+## 5. Execution Model
+
+- Event-driven, not interrupt-heavy
+- Predictable scheduling
+- Human-priority-aware signals (provided externally)
+- Deterministic state transitions
+
+The kernel prefers stability over speed.
+
+---
+
+## 6. Security Philosophy
+
+- Zero-trust by default
+- Capability-based permissions
+- Minimal attack surface
+- Human-readable security intents
+
+Security exists to protect calm.
+
+---
+
+## 7. Hardware Direction
+
+SE Kernel is designed for:
+- New low-power intelligent devices
+- Attention-respecting hardware
+- Future architectures beyond legacy PCs
+
+Legacy support is optional, not mandatory.
+
+---
+
+## 8. Relationship with Intelligence OS
+
+SE Kernel is the foundation.
+Intelligence OS is the mind.
+
+They are cleanly separated.
+
+The kernel never learns.
+The OS never breaks isolation.
+
+---
+
+## 9. Evolution Path
+
+Version goals:
+- v0.x: Research & simulation
+- v1.0: Reference implementation
+- v2.0+: Hardware co-designed editions
+
+SE Kernel evolves slowly, carefully, and openly.
+
+---
+
+## 10. Status
+
+This document defines strategy and boundaries.
+No production kernel code exists yet.
+
+Design precedes implementation.
+
+---
